@@ -11,7 +11,6 @@ This project explores the famous Iris dataset through multiple visualization tec
 * Python
 * Pandas
 * Matplotlib
-* NumPy
 
 ## Dataset
 
